@@ -17,7 +17,7 @@ Customer customer = CustomerDao.fetchOneById(4711);
 
 ## How
 
-Add a plugin repostory to use jitpack.io
+Add a plugin repository to use jitpack.io
 ```xml
 <pluginRepository>
     <id>jitpack.io</id>
