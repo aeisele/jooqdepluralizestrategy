@@ -12,7 +12,7 @@ Customers customer = CustomersDao.fetchOneById(4711);
 This strategy can be used to turn plural table terms into singular terms for code generation
 
 ```java
-Customer customer = CustomerDao.fetchOneById(4711);
+Customer customer = CustomersDao.fetchOneById(4711);
 ```
 
 ## How
